@@ -5,7 +5,6 @@ import 'package:provider/provider.dart';
 import 'package:recipe_app/categories/data/repositories/categories_repository.dart';
 import 'package:recipe_app/categories/presentation/pages/categories_view.dart';
 import 'package:recipe_app/categories/presentation/pages/categories_view_model.dart';
-import 'package:recipe_app/categories_detail/data/models/recipe_model_small.dart';
 import 'package:recipe_app/categories_detail/data/repositories/categories_detail_repository.dart';
 import 'package:recipe_app/categories_detail/presentation/pages/categories_detail.dart';
 import 'package:recipe_app/categories_detail/presentation/pages/categories_detail_view_model.dart';
